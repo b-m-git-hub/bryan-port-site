@@ -1,56 +1,25 @@
 ---
-title: "Demo Post 1"
-description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-pubDate: "Sep 10 2022"
-heroImage: "/post_img.webp"
-tags: ["tokio"]
+title: "My 2025 Massachusetts Saltwater Fishing Season"
+description: "How my 2025 Massachusetts saltwater fishing season went and an introduction to my saltwater fishing hobby"
+heroImage: "/canalsunrise.jpg"
+pubDate: "11-29-2025"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer
-malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas
-pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse
-platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada
-fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus
-vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea
-dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst
-quisque sagittis purus sit amet.
+My main setup from last season was a 10' ODM DNA rated for 3/4-4oz paired with a Shimano Saragosa 8000. Good enough to handle the canal and good enough for the beaches, well definitely overkill for the beaches with the 8k reel. I started the 2025 season with the purchase of two new setups with the goal of having both a dedicated jigging and plugging setup for the Cape Cod Canal. My jigging setup consisted of an 11' Century Slingshot 1329 rated for 4-8oz paired with a Shimano Stella 14000 and my plugging setup was an 11'6" ODM Frontier X rated for 2-6oz paired with a Van Staal X2 200.
 
-Morbi tristique senectus et netus. Id semper risus in hendrerit gravida rutrum
-quisque non tellus. Habitasse platea dictumst quisque sagittis purus sit amet.
-Tellus molestie nunc non blandit massa. Cursus vitae congue mauris rhoncus.
-Accumsan tortor posuere ac ut. Fringilla urna porttitor rhoncus dolor. Elit
-ullamcorper dignissim cras tincidunt lobortis. In cursus turpis massa tincidunt
-dui ut ornare lectus. Integer feugiat scelerisque varius morbi enim nunc.
-Bibendum neque egestas congue quisque egestas diam. Cras ornare arcu dui vivamus
-arcu felis bibendum. Dignissim suspendisse in est ante in nibh mauris. Sed
-tempus urna et pharetra pharetra massa massa ultricies mi.
+I started with hitting the Cape Cod Canal in early May hoping to get some earlier striped bass before the spring run really started. Unfortunately, I didn't have any luck... for just about the entire spring. I spent most of the spring at the canal waiting the spring run to start and the bite to come along with it. The consensus among everyone at the canal seemed to be the same, that it was a terrible start to the season. Putting in consistent hours is the key to catching stripers at the Cape Cod Canal. This means constantly waking up at 4:00AM hoping the fish will be there and feasting as the sun rises. After many sleep deprived and fishless trips to the canal, an early day in July brought what I had been waiting for. Birds were diving everywhere and fish were splashing on the top. The conditions for a thrilling top water bite were perfect. As I was thinking that, I saw birds going crazy and diving on top of some splashing water. It was a bait ball that was sure to have some big stripers feasting on it. It was beyond the middle of the canal so I tied on my biggest pencil to get the most distance and chucked it out there. Unfortunately, it was too short and did not make it to the area of the bait ball. I got one more cast in before the bait ball passed me, but it too fell short. The action fizzled out just as quick as it started. I was dumbfounded as I packed my gear into my car. I managed to mess up the one golden opportunity I've had in months. I immediately drove to Red Top, the local bait and tackle shop, and asked them how to get some more distance on my casts. After some back and forth of me answering their questions and asking some of my own, they settled on my reel being the likely culprit as the way the line comes off the reel can cut back on the distance. As soon as I got home, I switched my Van Staal for my 8k Saragosa. Which looking back it makes more sense to have the Van Staal on my surf setup.
 
-Mollis nunc sed id semper risus in. Convallis a cras semper auctor neque. Diam
-sit amet nisl suscipit. Lacus viverra vitae congue eu consequat ac felis donec.
-Egestas integer eget aliquet nibh praesent tristique magna sit amet. Eget magna
-fermentum iaculis eu non diam. In vitae turpis massa sed elementum. Tristique et
-egestas quis ipsum suspendisse ultrices. Eget lorem dolor sed viverra ipsum. Vel
-turpis nunc eget lorem dolor sed viverra. Posuere ac ut consequat semper viverra
-nam. Laoreet suspendisse interdum consectetur libero id faucibus. Diam phasellus
-vestibulum lorem sed risus ultricies tristique. Rhoncus dolor purus non enim
-praesent elementum facilisis. Ultrices tincidunt arcu non sodales neque. Tempus
-egestas sed sed risus pretium quam vulputate. Viverra suspendisse potenti nullam
-ac tortor vitae purus faucibus ornare. Fringilla urna porttitor rhoncus dolor
-purus non. Amet dictum sit amet justo donec enim.
+![plot](/vanstaal.JPG)
+*My Van Staal with a beautiful sunset*
 
-Mattis ullamcorper velit sed ullamcorper morbi tincidunt. Tortor posuere ac ut
-consequat semper viverra. Tellus mauris a diam maecenas sed enim ut sem viverra.
-Venenatis urna cursus eget nunc scelerisque viverra mauris in. Arcu ac tortor
-dignissim convallis aenean et tortor at. Curabitur gravida arcu ac tortor
-dignissim convallis aenean et tortor. Egestas tellus rutrum tellus pellentesque
-eu. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet. Ut enim
-blandit volutpat maecenas volutpat blandit aliquam etiam. Id donec ultrices
-tincidunt arcu. Id cursus metus aliquam eleifend mi.
+I spent most of the season trying to learn some more local spots specifically around the Boston harbor region. I didn't catch too many fish, but most of them were slot sized (28-31 inches) or larger. I mixed in a couple canal trips aiming for some bonito and bluefish, but I had no luck. I think next season I'll prioritize bonito a little when they're in the canal to have some fresh dinner.
 
-Tempus quam pellentesque nec nam aliquam sem. Risus at ultrices mi tempus
-imperdiet. Id porta nibh venenatis cras sed felis eget velit. Ipsum a arcu
-cursus vitae. Facilisis magna etiam tempor orci eu lobortis elementum. Tincidunt
-dui ut ornare lectus sit. Quisque non tellus orci ac. Blandit libero volutpat
-sed cras. Nec tincidunt praesent semper feugiat nibh sed pulvinar proin gravida.
-Egestas integer eget aliquet nibh praesent tristique magna.
+I attempted to fish the big Nor'easter in October which proved that I really need a wetsuit to fish it seriously and to avoid being cold and wet. The storm was so rough that I decided to hit an estuary where I landed a nice 12 pound, low 30 inches striped bass. Next year I will be more prepared for a Nor'easter to hopefully land some larger fish. The Nor'easter somewhat signaled the end of the season for me. I expected most fish, and certainly most of the larger fish, to take it as a sign to move south.
+
+![plot](/fish2025.jpg)
+*The fish mentioned*
+
+My last trip of the 2025 saltwater fishing season was on November 14th. I had already just about packed my gear weeks prior, but I did make a few sporadic trips down to the Cape Cod Canal with no luck. I decided to take one more trip before officially calling it quits until next spring. My dad and I woke up at 5:00AM and checked the weather app which said it felt like 22 with the wind, which was going to be blowing right in our faces. Armed with several layers and some gloves, we made our way there and began casting. The reality of the freezing November day quickly struck me and I realized I was severely underdressed at least until the sun rose some more. As we walked out to the spot, I noticed a lack of bait that can usually be seen hugging the shoreline as well as hardly any birds, both of which were plentiful just a couple weeks back. After an hour of no action, we decided two try one last spot before calling it for the season. Unfortunately, this spot had the same results and my final trip of the season ended with no fish. Which wasn't surprising given how late it was in the season.
+
+![plot](/canalfish2025.jpeg)
+*My best fish of the year, ~36 inches from the Cape Cod Canal*

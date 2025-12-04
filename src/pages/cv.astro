@@ -5,14 +5,13 @@ import TimeLineElement from "../components/cv/TimeLine.astro";
 
 <BaseLayout title="Resume" sideBarActiveItemID="cv">
   <div class="mb-5">
-    <div class="text-3xl w-full font-bold">Profile</div>
+    <div class="text-3xl w-full font-bold">Summary</div>
   </div>
 
   <div class="mb-10 text-justify">
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna
-    aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis
-    aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-    cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    I'm Bryan, a paramedic and computer science student.
+    My experience as a paramedic has taught me how to quickly solve problems, work effectively as part of a team, and stay focused under pressure.
+    I'm now applying those skills to computer programming with an interest in back-end development and infrastructure.
   </div>
 
   <div class="mb-5">
@@ -21,14 +20,32 @@ import TimeLineElement from "../components/cv/TimeLine.astro";
 
   <div class="time-line-container grid gap-4 mb-10">
     <TimeLineElement
-      title="Title Name"
-      subtitle="[start year] to [end year] at [Study Center Name], [City], [Country]"
-    />
-    <TimeLineElement
-      title="Title Name"
-      subtitle="[start year] to [end year] at [Study Center Name], [City], [Country]"
+      title="Bachelor of Science in Computer Science"
+      subtitle="2024 to 2027 at University of Massachusetts at Boston"
     />
   </div>
+
+  <div class="mb-5">
+    <div class="text-3xl w-full font-bold">Skills</div>
+  </div>
+
+  <ul class="list-disc md:columns-5 columns-2 mx-6 mb-10">
+    <li>Python</li>
+    <li>Java</li>
+    <li>Terraform</li>
+    <li>Ansible</li>
+    <li>Skill Name</li>
+    <li>Skill Name</li>
+    <li>Skill Name</li>
+    <li>Skill Name</li>
+    <li>Skill Name</li>
+    <li>Skill Name</li>
+    <li>Skill Name</li>
+    <li>Skill Name</li>
+    <li>Skill Name</li>
+    <li>Skill Name</li>
+    <li>Skill Name</li>
+  </ul>
 
   <div class="mb-5">
     <div class="text-3xl w-full font-bold">Experience</div>
@@ -36,22 +53,16 @@ import TimeLineElement from "../components/cv/TimeLine.astro";
 
   <div class="time-line-container mb-10">
     <TimeLineElement
-      title="Job Title at Project or Company Name"
-      subtitle="From [Start Date] to [End Date] at [Company], [City], [Country]"
+      title="Paramedic"
+      subtitle="From March 2024 to present at South Shore Health EMS, Weymouth, Massachusetts"
     >
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.
+      Paramedic coordinating with ER, ICU, and OR teams to transfer patients from South Shore Hospital to higher level of care at various Boston hospitals. Managed IV pumps for medication transfusions including blood products, operated ventilators, and cardiac monitoring. Later transitioned to part-time for school and began working for their 911 system serving the city of Weymouth.
     </TimeLineElement>
     <TimeLineElement
-      title="Job Title at Project or Company Name"
-      subtitle="From [Start Date] to [End Date] at [Company], [City], [Country]"
+      title="Paramedic"
+      subtitle="From April 2021 to March 2024 at Brewster Ambulance, Quincy, Massachusetts"
     >
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.
-    </TimeLineElement>
-    <TimeLineElement
-      title="Job Title at Project or Company Name"
-      subtitle="From [Start Date] to [End Date] at [Company], [City], [Country]"
-    >
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.
+      Paramedic working 911 for the city of Quincy. Administered medications, IV infusions, and airway management to stabilize patients prior to hospital arrival. Collaborated with police, fire, and hospital staff to deliver high quality care.
     </TimeLineElement>
   </div>
 
@@ -68,25 +79,24 @@ import TimeLineElement from "../components/cv/TimeLine.astro";
     </li>
   </ul>
 
+
   <div class="mb-5">
-    <div class="text-3xl w-full font-bold">Skills</div>
+    <div class="text-3xl w-full font-bold">Experience</div>
   </div>
 
-  <ul class="list-disc md:columns-5 columns-2 mx-6">
-    <li>Skill Name</li>
-    <li>Skill Name</li>
-    <li>Skill Name</li>
-    <li>Skill Name</li>
-    <li>Skill Name</li>
-    <li>Skill Name</li>
-    <li>Skill Name</li>
-    <li>Skill Name</li>
-    <li>Skill Name</li>
-    <li>Skill Name</li>
-    <li>Skill Name</li>
-    <li>Skill Name</li>
-    <li>Skill Name</li>
-    <li>Skill Name</li>
-    <li>Skill Name</li>
-  </ul>
+  <div class="time-line-container mb-10">
+    <TimeLineElement
+      title="Paramedic"
+      subtitle="From March 2024 to present at South Shore Health EMS, Weymouth, Massachusetts"
+    >
+      Paramedic coordinating with ER, ICU, and OR teams to transfer patients from South Shore Hospital to higher level of care at various Boston hospitals. Managed IV pumps for medication transfusions including blood products, operated ventilators, and cardiac monitoring. Later transitioned to part-time for school and began working for their 911 system serving the city of Weymouth.
+    </TimeLineElement>
+    <TimeLineElement
+      title="Paramedic"
+      subtitle="From April 2021 to March 2024 at Brewster Ambulance, Quincy, Massachusetts"
+    >
+      Paramedic working 911 for the city of Quincy. Administered medications, IV infusions, and airway management to stabilize patients prior to hospital arrival. Collaborated with police, fire, and hospital staff to deliver high quality care.
+    </TimeLineElement>
+  </div>
+
 </BaseLayout>
