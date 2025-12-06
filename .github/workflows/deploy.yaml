@@ -30,4 +30,4 @@ jobs:
         TARGET: "/var/www/html/"
         REMOTE_HOST: ${{ secrets.HOST }}
         REMOTE_USER: ${{ secrets.USERNAME }}
-        ARGS: "-rlptDzvO --delete"
+        ARGS: "-rltDzvO --delete"
