@@ -27,7 +27,7 @@ jobs:
       with:
         SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
         SOURCE: "dist/"
-        TARGET: "/var/www/html/"
+        TARGET: "/var/www/astro/"
         REMOTE_HOST: ${{ secrets.HOST }}
         REMOTE_USER: ${{ secrets.USERNAME }}
         ARGS: "-rltDzvO --delete"
