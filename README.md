@@ -1,4 +1,4 @@
-### Personal Portfolio Website
+# Personal Portfolio Website
 
 [**View Live Site: bryan-mcmahon.com**](https://www.bryan-mcmahon.com/)
 
