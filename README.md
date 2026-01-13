@@ -1,6 +1,7 @@
 ### Personal Portfolio Website
 
-[![Site Status](https://img.shields.io/website?url=https%3A%2F%2Fwww.bryan-mcmahon.com)](https://www.bryan-mcmahon.com/)
+[**View Live Site: bryan-mcmahon.com**](https://www.bryan-mcmahon.com/)
+
 The source code for my personal portfolio, built with a focus on performance, accessibility, and clean design.
 
 > [!TIP]
