@@ -1,4 +1,26 @@
+### Personal Portfolio Website
 
+[![Site Status](https://img.shields.io/website?url=https%3A%2F%2Fwww.bryan-mcmahon.com)](https://www.bryan-mcmahon.com/)
+The source code for my personal portfolio, built with a focus on performance, accessibility, and clean design.
+
+> [!TIP]
+> View my **[Infrastructure-as-Code Repository](https://github.com/b-m-git-hub/infra-port-site)** to see the Terraform modules and Ansible playbooks used to power this site.
+
+## Tech Stack
+
+![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
+## Features
+
+* **Static Site Generation**
+    * Built with Astro for fast load times, security, and cost efficiency.
+* **CI/CD Pipeline**
+    * **GitHub Actions:** Automated build and deployment pipeline that triggers on every push to `main` branch.
+* **Infrastructure**
+    * **Nginx on VPS:** Deployed to a VPS to ensure full control over the server, security headers, and SSL/TLS.
 
 ## License
 
