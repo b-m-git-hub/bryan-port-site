@@ -1,11 +1,11 @@
-# Personal Portfolio Website
+# Personal Portfolio Website: Static Site Code
 
 [**View Live Site: bryan-mcmahon.com**](https://www.bryan-mcmahon.com/)
 
 The source code for my personal portfolio, built with a focus on performance, accessibility, and clean design.
 
 > [!TIP]
-> View my **[Infrastructure-as-Code Repository](https://github.com/b-m-git-hub/infra-port-site)** to see the Terraform modules and Ansible playbooks used to power this site.
+> View my **[Infrastructure as Code Repository](https://github.com/b-m-git-hub/infra-port-site)** to see the Terraform modules and Ansible playbooks used to power my site.
 
 ## Tech Stack
 
