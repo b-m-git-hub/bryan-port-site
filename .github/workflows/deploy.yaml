@@ -29,5 +29,5 @@ jobs:
         SOURCE: "dist/"
         TARGET: "/var/www/astro/"
         REMOTE_HOST: ${{ secrets.HOST }}
-        REMOTE_USER: ${{ secrets.USERNAME }}
+        REMOTE_USER: "deploy"
         ARGS: "-rltDzvO --delete"
